@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Infromation and Technology @SLIIT  <b>(Student ID: IT)</b> <br><br>🔭 I have crazy about Astronomy<br><br>📫 How to reach me pererah215@gmail.com<br><br>⚡ Fun fact: I originally got into coding to automate my chores! 
+<br>🌱 I’m currently learning Infromation and Technology @SLIIT  <b>(Student ID: IT23281646)</b> <br><br>🔭 I have crazy about Astronomy<br><br>📫 How to reach me pererah215@gmail.com<br><br>⚡ Fun fact: I originally got into coding to automate my chores! 
 
 
 # 💻 Tech Stack:
